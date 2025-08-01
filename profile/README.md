@@ -56,6 +56,7 @@ LOX-801 operates in multiple global regions, including:
 ## 👁️ Ethics Directive
 
 LOX-801 does not engage in unlawful surveillance, harassment, or destructive cyber operation.
+
 LOX-801 is **not** ahacker group.
 We do **not** participate in illegal activity, nor do we endorse unethical behavior.
 
