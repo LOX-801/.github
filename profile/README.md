@@ -37,19 +37,8 @@ LOX-801 operates in multiple global regions, including:
 
 ## 🔐 Operations & Research Focus
 
-- 🔸 CRYPTA-X — Secure lightweight cryptographic tool for high-risk communication
-- 🔸 SIDERA-ID *(Private)* — Intelligence-grade civilian mapping and identity classification engine
-- 🔸 Intelligence Protocol *(Private)* — Field-data ingestion & behavioral fingerprinting module
-
----
-
-## 🧪 Current Projects
-
-| Project     | Status    | Description                                        |
-|-------------|-----------|----------------------------------------------------|
-| CRYPTA-X    | 🟢 Active | Tactical cryptographic engine for field ops        |
-| SIDERA-ID   | 🔒 Limited | ID surveillance framework                         |
-| Intelligence Protocol  | 🔒 Private | Behavioral mapping for covert HUMINT ops          |
+- 🔸 Cryptography
+- 🔸 Intelligence
 
 ---
 
