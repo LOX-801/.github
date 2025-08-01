@@ -55,9 +55,16 @@ LOX-801 operates in multiple global regions, including:
 
 ## 👁️ Ethics Directive
 
-LOX-801 does not engage in unlawful surveillance, harassment, or destructive cyber operations.  
-All code released is intended for research, defense training, and controlled simulation purposes.  
-Use at your own discretion. You are the weapon — we just hand you the signal.
+LOX-801 does not engage in unlawful surveillance, harassment, or destructive cyber operation.
+LOX-801 is **not** ahacker group.
+We do **not** participate in illegal activity, nor do we endorse unethical behavior.
+
+Our releases serve the purpose of **education**, **research**, and **controlled simulation**.
+Use at your own discretion!
+
+> "We are not hacker group, nor do we engage in illegal activities."
+
+You are the weapon — we just hand you the signal.
 
 ---
 
