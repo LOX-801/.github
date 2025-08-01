@@ -28,7 +28,7 @@ LOX-801 operates in multiple global regions, including:
 - 🇺🇸 United States
 - 🇬🇧 United Kingdom
 - 🇩🇪 Germany
-- 🇸🇦 Middle East (Arabic-speaking countries)
+- 🇸🇦 Middle East 
 - 🇮🇩 Indonesia
 
 > Communication available in: English, Canadian French, German, Arabic, and Bahasa Indonesia
