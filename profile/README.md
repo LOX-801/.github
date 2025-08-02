@@ -60,7 +60,7 @@ You are the weapon — we just hand you the signal.
 
 ## 🛰️ HQ Communications
 
-> 🔗 Email: sierra@801opsec.site
+> 🔗 Email: sierra@801opsec.site  
 > 🔗 GitHub Organization: [github.com/LOX-801](https://github.com/LOX-801)
 
 ---
