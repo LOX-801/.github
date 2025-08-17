@@ -13,7 +13,7 @@
 ## 🧭 Overview
 
 LOX-801 is a decentralized unit operating at the edge of digital warfare and psychological operations.  
-We engineer cryptographic protocols, develop offensive tooling, and execute civilian-grade intelligence frameworks.
+We engineer cryptographic protocols, develop offensive tooling, and execute military-grade intelligence frameworks.
 
 This is not a company.  
 This is not a movement.  
@@ -46,7 +46,7 @@ LOX-801 operates in multiple global regions, including:
 
 LOX-801 does not engage in unlawful surveillance, harassment, or destructive cyber operation.
 
-LOX-801 is **not** ahacker group.
+LOX-801 is **not** a hacker group.
 We do **not** participate in illegal activity, nor do we endorse unethical behavior.
 
 Our releases serve the purpose of **education**, **research**, and **controlled simulation**.
