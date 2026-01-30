@@ -17,7 +17,7 @@ We engineer cryptographic protocols, develop offensive tooling, and execute mili
 
 This is not a company.  
 This is not a movement.  
-This is a cold network of autonomous operators — operating under noise.
+This is a cold network of autonomous operators, operating under noise.
 
 ---
 
@@ -54,7 +54,7 @@ Use at your own discretion!
 
 > "We are not hacker group, nor do we engage in illegal activities."
 
-You are the weapon — we just hand you the signal.
+You are the weapon, we just hand you the signal.
 
 ---
 
